@@ -1,6 +1,6 @@
 # Systems Performance Playground
 
-Check out the exercises and the answers in [exercises.md](exercises.md)
+Check out the exercises and the answers in the `exercises` folder.
 
 ## Vagrant usage insttructions
 
