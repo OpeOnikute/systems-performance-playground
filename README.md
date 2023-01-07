@@ -1,13 +1,10 @@
-# vagrant-bcctools
+# Systems Performance Playground
 
-I created this repo because it turns out that playing with [bcctools](https://github.com/iovisor/bcc) on macOS is a PITA.
+Check out the exercises and the answers in [exercises.md](exercises.md)
 
-You can't use the following:
+## Vagrant usage insttructions
 
-* the docker image mentioned in the bcc repo's [`QUICKSTART.md`](https://github.com/iovisor/bcc/blob/master/QUICKSTART.md) because that's expected a Linux Docker host.
-* the [vagrant](https://github.com/iovisor/vagrant) repo is 4 years old and doesn't appear to play nice with a modern version of Vagrant.
-
-## usage
+(Copied from the vagrant-bcctools repo)
 
 * We'll assume you've installed VirtualBox and Vagrant.
 
